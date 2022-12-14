@@ -1,2 +1,2 @@
 # computational-essay-waves
-Computational essay physics undergraduate, waves and oscillations. 
+Computational essay physics, waves and oscillations. The notebook is about fourier analysis, some basic fourier theory and finally a real world usecase where i use historical weather data and apply fourier analysis on this data to look for anomalies and changes that could indicate climate change. The data is from the norwegian meterological institute and is publicly available to anyone with internet access. 
